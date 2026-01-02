@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    text-align: center;
+}
+
+nav {
+    background: #222;
+    color: white;
+    padding: 15px;
+}
+
+.hero {
+    background: #4CAF50;
+    color: white;
+    padding: 60px;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    background: white;
+    cursor: pointer;
+}
+
+.features {
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+
+.features div {
+    background: #eee;
+    padding: 20px;
+    width: 25%;
+}
+
+footer {
+    background: #222;
+    color: white;
+    padding: 10px;
+}
